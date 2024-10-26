@@ -585,9 +585,18 @@ email:
   Icon:
     Class: far fa-envelope fa-fw
 
+# Threads
+threads:
+  Weight: 100
+  Prefix: https://www.threads.net/
+  Title: Threads
+  Newtab: true
+  Icon:
+    Class: fab fa-threads fa-fw
+
 # RSS
 rss:
-  Weight: 100
+  Weight: 101
   Url: /index.xml
   Title: RSS
   Newtab: true
